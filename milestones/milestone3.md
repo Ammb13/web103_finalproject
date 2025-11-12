@@ -8,34 +8,34 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 You will need to reference the GitHub Project Management guide in the course portal for more information about how to complete each of these steps.
 
-- [ ] In your repo, create a project board. 
+- [ x ] In your repo, create a project board. 
   - *Please be sure to share your project board with the grading team's GitHub **codepathreview**. This is separate from your repository's sharing settings.*
-- [ ] In your repo, create at least 5 issues from the features on your feature list.
-- [ ] In your repo, update the status of issues in your project board.
-- [ ] In your repo, create a GitHub Milestone for each final project unit, corresponding to each of the 5 milestones in your `milestones/` directory. 
-  - [ ] Set the completion percentage of each milestone. The GitHub Milestone for this unit (Milestone 3 - Unit 7) should be 100% completed when you submit for full points.
-- [ ] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of the feature's name.
-  - [ ] Under each feature you have completed, include a GIF showing feature functionality.
-- [ ] In this documents, complete all five questions in the **Reflection** section below.
+- [ x ] In your repo, create at least 5 issues from the features on your feature list.
+- [ x ] In your repo, update the status of issues in your project board.
+- [ x ] In your repo, create a GitHub Milestone for each final project unit, corresponding to each of the 5 milestones in your `milestones/` directory. 
+  - [ x ] Set the completion percentage of each milestone. The GitHub Milestone for this unit (Milestone 3 - Unit 7) should be 100% completed when you submit for full points.
+- [ x ] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of the feature's name.
+  - [ x ] Under each feature you have completed, include a GIF showing feature functionality.
+- [ x ] In this documents, complete all five questions in the **Reflection** section below.
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+setting up the initial base  of the webapp
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+using different branches was annoying so i had to create another repo all togther
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
-[👉🏾👉🏾👉🏾 your answer here]
+No in the week we have left i plan to prioritze finishing the edit, create and delete before the extra features
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
-[👉🏾👉🏾👉🏾 your answer here]
+possibly the profile, it will proabbaly end up being a site that doesnt have a sign up /log in
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+support in more commnuication with my teamates
