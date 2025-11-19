@@ -16,22 +16,19 @@ In an increasingly digital world, genuine local connections can sometimes feel h
 ---
 ## Features
 *(Note: Checkboxes `[ ]` and GIFs will be added in later milestones as features are completed)*
-**[ ] View Events by Neighborhood**
+**[ ✅ ] View Events by Neighborhood**
 Users can enter their zip code to see a feed of upcoming events specific to their local area, sorted by date.
 **[ ✅ ] View Event Details**
 Clicking on an event card navigates the user to a dedicated page showing the full event description, location details, time, and the list of attendees.
 ![event view all gif](./planning/final-1.gif)
-**[  ] Create New Event (with Modal & Validation)**
+**[ ✅ ] Create New Event (with Modal & Validation)**
 Authenticated users can add a new event to their neighborhood via a modal pop-up form. Input is validated on the backend (e.g., event date must be in the future, title required).
 *(Includes Custom Features: Modal Pop-up, Backend Validation)*
-**[ ] RSVP to Event**
-Users can indicate they are "Going" to an event from the event detail page. Their indication is saved, and they appear in the attendee list.
-**[ ] View Attendees**
-Both event cards (summary view) and the event detail page display avatars/usernames of users who have RSVP'd.
-**[  ] Edit Own Event**
+**[ ✅  ] Edit Own Event**
 Users can edit the details of events they created. *(CRUD - Update)*
-**[  ] Delete Own Event**
+**[ ✅ ] Delete Own Event**
 Users can delete events they created. *(CRUD - Delete)*
+![create, delete, edit, filter, details](./planning/final-2.gif)
 ---
 ## Installation Instructions
 [Instructions on how to clone, install dependencies (`npm install` in root, client, server), set up the `.env` file, and run the development servers will go here later]
